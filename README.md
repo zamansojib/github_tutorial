@@ -13,3 +13,5 @@ hi this is wick
 ## hello my gf
 
 ## I am learning about C-programming
+
+I am an Electrical Engineer
